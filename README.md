@@ -1,3 +1,4 @@
+```
 usage: revcomp [-h] [-f FILE] [--no_mask] [--no_lower] [seq]
 
 reverse-complement a nucleotide sequence
@@ -13,3 +14,4 @@ optional arguments:
   --no_mask             don't mask non-ACTG characters with N (default: False)
   --no_lower            consider lowercase input invalid (will still reverse)
                         (default: False)
+```
